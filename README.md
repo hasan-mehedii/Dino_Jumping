@@ -22,12 +22,12 @@ Jumping Dino is a simple but entertaining game developed using C++ and the SDL2 
 ---
 
 ## 🎮 Features
-**Dynamic Gameplay:** Avoid incoming ghosts to survive.
-**Jump Mechanics:** Double and multi-jumps for dodging obstacles.
-**Score Tracking:** Keeps track of your current and best scores.
-**Player Name Input:** Customizable player profiles.
-**Persistent Data:** Stores the best scores in a text file.
-**Interactive Background:** Featuring animated grass, trees, clouds, and stones.
+- **Dynamic Gameplay:** Avoid incoming ghosts to survive.
+- **Jump Mechanics:** Double and multi-jumps for dodging obstacles.
+- **Score Tracking:** Keeps track of your current and best scores.
+- **Player Name Input:** Customizable player profiles.
+- **Persistent Data:** Stores the best scores in a text file.
+- **Interactive Background:** Featuring animated grass, trees, clouds, and stones.
 
 ---
 ## 📂 Project Structure  
