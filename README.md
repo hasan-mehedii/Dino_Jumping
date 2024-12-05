@@ -62,19 +62,25 @@ Jumping Dino is a simple but entertaining game developed using C++ and the SDL2 
 - **SDL2 Library** installed (along with `SDL2_ttf` and `SDL2_image` if used)
 
 ### Running the Game
-1. **Clone the repository** or download the source code.
+1. **Clone the repository or download the source code.**
+   
+    ```bash
+    git clone https://github.com/hasan-mehedii/jumping-dino
+    cd jumping-dino
 2. **Ensure SDL2 is properly installed.**
+ 
+   ```bash
+    sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
 3. **Compile the project** using your C++ compiler. For example:
 
    ```bash
    g++ -o JumpingDino game.cpp -lSDL2 -lSDL2_image -lSDL2_ttf  
-   ./JumpingDino
 
+ 4. **Run**
 
-Here's how you can format the "Getting Started" and other sections for your README file on GitHub:
+    ```bash
+    ./JumpingDino
 
-markdown
-Copy code
 ## 🚀 Getting Started
 
 ### Prerequisites
