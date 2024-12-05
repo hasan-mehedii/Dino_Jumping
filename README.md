@@ -80,21 +80,6 @@ Jumping Dino is a simple but entertaining game developed using C++ and the SDL2 
 
     ```bash
     ./JumpingDino
-
-## 🚀 Getting Started
-
-### Prerequisites
-- **C++ Compiler** (e.g., GCC or MSVC)
-- **SDL2 Library** installed (along with `SDL2_ttf` and `SDL2_image` if used)
-
-### Running the Game
-1. **Clone the repository** or download the source code.
-2. **Ensure SDL2 is properly installed.**
-3. **Compile the project** using your C++ compiler. For example:
-
-   ```bash
-   g++ -o JumpingDino main.cpp -lSDL2 -lSDL2_image -lSDL2_ttf  
-   ./JumpingDino
    
 ## 📊 Score System
 ### The game tracks the score based on the number of ghosts avoided:
