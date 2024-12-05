@@ -14,10 +14,10 @@ Jumping Dino is a simple but entertaining game developed using C++ and the SDL2 
 ## 🖼️ Screenshots
 
 ### Main Menu
-![Main Menu](images/Screenshot-2024-12-06-010853.png)
+![Main Menu](images/Screenshot%2024-12-06%010853.png)
 
 ### Gameplay
-![Gameplay](images/Screenshot%202024-11-15%20001526.png)
+![Gameplay](images/Screenshot%2024-12-06%010927.png)
 
 ---
 
